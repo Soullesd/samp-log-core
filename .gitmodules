@@ -1,6 +1,6 @@
 [submodule "libs/cmake"]
 	path = libs/cmake
-	url = https://github.com/AmyrAhmady/katursis-samp-cmake-modules.git
+	url = https://github.com/AmyrAhmady/samp-cmake-modules.git
 [submodule "libs/tinydir"]
 	path = libs/tinydir
 	url = https://github.com/cxong/tinydir.git
